@@ -53,7 +53,6 @@ Features:
 %license COPYING
 %doc README.md
 %doc CHANGELOG.md
-%dir %{_sysconfdir}/dnf/libdnf5-plugins
 %config(noreplace) %{_sysconfdir}/dnf/libdnf5-plugins/snapper.conf
 %{_libdir}/libdnf5/plugins/snapper.so
 
