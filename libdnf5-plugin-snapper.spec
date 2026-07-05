@@ -1,5 +1,5 @@
 Name:           libdnf5-plugin-snapper
-Version:        1.0.2
+Version:        1.0.3
 Release:        1%{?dist}
 Summary:        Snapper plugin for DNF5 - automatic filesystem snapshots
 
