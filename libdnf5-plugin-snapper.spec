@@ -17,7 +17,6 @@ BuildRequires:  catch2-devel
 
 Requires:       libdnf5%{?_isa} >= 5.0
 Requires:       snapper-libs%{?_isa} >= 0.10
-Requires:       dnf5
 
 # Suggests the old plugin should be removed if installed
 Obsoletes:      python3-dnf-plugin-snapper < 5.0
